@@ -118,7 +118,7 @@ flowchart LR
 │               │               │ Scheme Logic) │
 └───────────────┘               └───────────────┘
 ```
-
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/sgaepakkbd5yefbv7jqn.png)
 ---
 
 ## 🎙️ Meet the Team of AI Specialists
@@ -134,7 +134,7 @@ Dhan Rakshak uses a multi-agent federation where a main intake guide dynamically
 | **Palak** | **Agri-Financial & Crop Insurance** | `Palak` (Murf Falcon) | `en-IN` / `hi-IN` | PMFBY 72-hr crop loss reporting, PM-KISAN e-KYC status, Kisan Credit Cards. |
 
 ---
-
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/bityeu24kbbw5liy6jon.png)
 ## 📅 10-Day Development Journey & Log
 ### 🟢 Day 1 — The Problem: Financial Confusion Is Everywhere
 - **Key Realization**: Financial information is available, but accessibility is broken. Ordinary citizens struggle with banking, digital safety (UPI fraud/phishing), welfare schemes, and dispute recourse.
