@@ -2,23 +2,19 @@
 ### *A 10-Day Journey Building a Real-Time, Multilingual Voice Agent for Financial Safety, Government Welfare & Cyber Fraud Containment*
 
 
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/zaopgfm38j1tpr5haf0l.jpg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Murf Falcon](https://img.shields.io/badge/TTS-Murf%20Falcon-6366F1)](https://murf.ai/api/docs/text-to-speech/streaming) [![LiveKit](https://img.shields.io/badge/Transport-LiveKit-002cf2)](https://docs.livekit.io) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-![Dhan Rakshak Banner](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/w263zy54qnbgp4jzw21c.jpg)
 
 ---
 
 ## 📖 The Story That Started It All
 
-Imagine a small shopkeeper in Delhi named **Ramesh**.
+Imagine a small shopkeeper in Odisha named **Subash**.
 
 One evening, Ramesh receives a message on his phone:
 > *"Your bank account will be blocked tonight. Verify your KYC immediately by clicking the link below."*
 
 Anxious and rushed, he clicks the link. Within a few minutes, he realizes the message was fake and an unauthorized transaction has taken place.
-
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/fsjrf52eul87ute8zeql.png)
-
 
 Now he is gripped with panic and urgent questions:
 - *What should he do right now?*
@@ -122,7 +118,7 @@ flowchart LR
 │               │               │ Scheme Logic) │
 └───────────────┘               └───────────────┘
 ```
-
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/sgaepakkbd5yefbv7jqn.png)
 ---
 
 ## 🎙️ Meet the Team of AI Specialists
@@ -136,13 +132,10 @@ Dhan Rakshak uses a multi-agent federation where a main intake guide dynamically
 | **Pooja** | **Government Schemes & Pension Guide** | `Pooja` (Murf Falcon) | `en-IN` / `hi-IN` | APY pension calculators, Sukanya Samriddhi (8.2%), PMJDY/PMSBY/PMJJBY. |
 | **Samar** | **Micro-Credit & Business Loans** | `Samar` (Murf Falcon) | `en-IN` | PMMY Mudra loans (Shishu, Kishore, Tarun), PM SVANidhi vendor loans. |
 | **Palak** | **Agri-Financial & Crop Insurance** | `Palak` (Murf Falcon) | `en-IN` / `hi-IN` | PMFBY 72-hr crop loss reporting, PM-KISAN e-KYC status, Kisan Credit Cards. |
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7493954142743433216?collapsed=1" height="539" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ---
-
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/bityeu24kbbw5liy6jon.png)
 ## 📅 10-Day Development Journey & Log
-
-![Development Highlights](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/czk3guoqxdwrw0p86nac.jpg)
-
 ### 🟢 Day 1 — The Problem: Financial Confusion Is Everywhere
 - **Key Realization**: Financial information is available, but accessibility is broken. Ordinary citizens struggle with banking, digital safety (UPI fraud/phishing), welfare schemes, and dispute recourse.
 - **Objective**: Build an AI assistant that feels less like a search engine and more like a patient, empathetic citizen-support counselor.
