@@ -1,0 +1,76 @@
+{
+  "last_updated": "August 2026",
+  "schemes": {
+    "Atal Pension Yojana": {
+      "min_age": 18,
+      "max_age": 40,
+      "requires_savings_account": true,
+      "documents": [
+        "Aadhaar Card (identity and address proof)",
+        "Active Savings Bank Account details",
+        "Mobile Number registered with bank"
+      ],
+      "description": "Pension scheme for citizens in the unorganized sector, providing a guaranteed minimum pension of Rs. 1,000 to Rs. 5,000 per month after 60 years of age."
+    },
+    "PM Jan Dhan Yojana": {
+      "min_age": 10,
+      "max_age": 150,
+      "requires_savings_account": false,
+      "documents": [
+        "Aadhaar Card OR Voter ID OR Driving License",
+        "Two passport size photographs",
+        "Mobile Number (optional but recommended)"
+      ],
+      "description": "National Mission for Financial Inclusion to ensure access to financial services, namely, basic savings & deposit accounts, remittance, credit, insurance, pension in an affordable manner."
+    },
+    "PM Jeevan Jyoti Bima Yojana": {
+      "min_age": 18,
+      "max_age": 50,
+      "requires_savings_account": true,
+      "documents": [
+        "Aadhaar Card",
+        "Savings Bank Account details with auto-debit consent",
+        "Mobile Number registered with bank"
+      ],
+      "description": "One-year life insurance scheme renewable from year to year, offering coverage for death due to any reason."
+    },
+    "PM Suraksha Bima Yojana": {
+      "min_age": 18,
+      "max_age": 70,
+      "requires_savings_account": true,
+      "documents": [
+        "Aadhaar Card",
+        "Savings Bank Account details with auto-debit consent",
+        "Mobile Number registered with bank"
+      ],
+      "description": "One-year accidental insurance scheme renewable from year to year, offering coverage for accidental death and disability."
+    },
+    "Sukanya Samriddhi Yojana": {
+      "min_age": 0,
+      "max_age": 10,
+      "requires_savings_account": false,
+      "only_female": true,
+      "documents": [
+        "Girl Child's Birth Certificate",
+        "Aadhaar Card of parent/guardian",
+        "PAN Card of parent/guardian",
+        "Address proof",
+        "Passport size photographs of child and parent"
+      ],
+      "description": "Small deposit scheme for the girl child, launched as part of the 'Beti Bachao Beti Padhao' campaign."
+    },
+    "Mudra Loan": {
+      "min_age": 18,
+      "max_age": 100,
+      "requires_business": true,
+      "documents": [
+        "Proof of Identity (Aadhaar, Voter ID, PAN, Passport)",
+        "Proof of Residence",
+        "Business ID and Address Proof (licenses, registration certificates)",
+        "Quotations for machinery/equipment to be purchased",
+        "Passport size photographs of the applicant/partners"
+      ],
+      "description": "Loans up to Rs. 10 Lakh to non-corporate, non-farm small/micro enterprises."
+    }
+  }
+}
