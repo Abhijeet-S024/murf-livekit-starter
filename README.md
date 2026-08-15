@@ -132,13 +132,10 @@ Dhan Rakshak uses a multi-agent federation where a main intake guide dynamically
 | **Pooja** | **Government Schemes & Pension Guide** | `Pooja` (Murf Falcon) | `en-IN` / `hi-IN` | APY pension calculators, Sukanya Samriddhi (8.2%), PMJDY/PMSBY/PMJJBY. |
 | **Samar** | **Micro-Credit & Business Loans** | `Samar` (Murf Falcon) | `en-IN` | PMMY Mudra loans (Shishu, Kishore, Tarun), PM SVANidhi vendor loans. |
 | **Palak** | **Agri-Financial & Crop Insurance** | `Palak` (Murf Falcon) | `en-IN` / `hi-IN` | PMFBY 72-hr crop loss reporting, PM-KISAN e-KYC status, Kisan Credit Cards. |
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7493954142743433216?collapsed=1" height="539" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ---
 
 ## 📅 10-Day Development Journey & Log
-
-![Development Highlights](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/czk3guoqxdwrw0p86nac.jpg)
-
 ### 🟢 Day 1 — The Problem: Financial Confusion Is Everywhere
 - **Key Realization**: Financial information is available, but accessibility is broken. Ordinary citizens struggle with banking, digital safety (UPI fraud/phishing), welfare schemes, and dispute recourse.
 - **Objective**: Build an AI assistant that feels less like a search engine and more like a patient, empathetic citizen-support counselor.
