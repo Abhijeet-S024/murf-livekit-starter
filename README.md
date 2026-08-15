@@ -2,23 +2,19 @@
 ### *A 10-Day Journey Building a Real-Time, Multilingual Voice Agent for Financial Safety, Government Welfare & Cyber Fraud Containment*
 
 
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/zaopgfm38j1tpr5haf0l.jpg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Murf Falcon](https://img.shields.io/badge/TTS-Murf%20Falcon-6366F1)](https://murf.ai/api/docs/text-to-speech/streaming) [![LiveKit](https://img.shields.io/badge/Transport-LiveKit-002cf2)](https://docs.livekit.io) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-![Dhan Rakshak Banner](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/w263zy54qnbgp4jzw21c.jpg)
 
 ---
 
 ## 📖 The Story That Started It All
 
-Imagine a small shopkeeper in Delhi named **Ramesh**.
+Imagine a small shopkeeper in Odisha named **Subash**.
 
 One evening, Ramesh receives a message on his phone:
 > *"Your bank account will be blocked tonight. Verify your KYC immediately by clicking the link below."*
 
 Anxious and rushed, he clicks the link. Within a few minutes, he realizes the message was fake and an unauthorized transaction has taken place.
-
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/fsjrf52eul87ute8zeql.png)
-
 
 Now he is gripped with panic and urgent questions:
 - *What should he do right now?*
